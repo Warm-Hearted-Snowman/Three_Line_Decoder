@@ -10,4 +10,6 @@ or :
 ```
 and then input your string.
 
+#### You can find this algorithm [Encoder in Here.](https://github.com/DarkSideOfADeveloper/Three_Line_Encoder)
+
 ### Developed by OD
