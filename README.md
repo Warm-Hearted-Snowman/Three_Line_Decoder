@@ -2,7 +2,7 @@
 This is a simple Decoder project based on 3 line!
 You can use it with two way :
 ```
-    python DC.py DecodeThisString   
+    python DC.py DdireoehstigcTSn   
 ```
 or :
 ```
